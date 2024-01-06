@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    margin: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#heading{
+    text-align: center;
+    color: whitesmoke;
+    text-decoration:underline;
+}
+
+td{
+    color:black;
+    /* color: whitesmoke; */
+    border: 2px solid ghostwhite;
+    text-align: center;
+    font-weight: 600;
+    width: 70px;
+}
+#no{
+    border:none
+}
+#one{
+background-color: #4b80a9;
+}
+#two{
+    background-color: #d82c53;
+}
+#three{
+    background-color: #efa81b;
+}
+#four{
+    /* background-color:rgba(221, 235, 23, 0.973); */
+    background-color:yellowgreen;
+}
+#five{
+    background-color: #f5b659;
+}
+#six{
+    background-color: #00b6bc;
+}
+#seven{
+    background-color: #329090;
+}
+#eight{
+    background-color: #59cf6e;
+}
+#nine{
+    background-color: #6abd46;
+}
+#ten{
+    background-color:crimson;
+}
+#eleven{
+    background-color: #7e69af;
+}
+#tweleve{
+    background-color: red;
+}
+td:hover{
+    color: blue;
+}
